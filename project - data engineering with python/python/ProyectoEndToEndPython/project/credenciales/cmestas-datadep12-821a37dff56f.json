@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cmestas-datadep12",
+  "private_key_id": "821a37dff56ff5265da6b3f5555c2b5c90bf343a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDJJYSaq1FJWO0p\nT4ICLuLoKe9B2LBnJBW7rXic6MKYsK0PrGZUsbIXgiGtOQ1/E/Jx0xPai/kj8kwZ\nnyMGTdfgOujN/pfvOCkpx3OxLBYGJQDlkbpnYd8mJJPTtOj5DlWzdvq7ppWhEcVN\n5443Gd+0iEfrrbAe+9snhCP4LeKT03dnL4+FEuQmHEeQP+C1P1fz29xzA2OI+fdN\n5Injer/k6UMOT/Ekr1x7ATfsH1Mun6O9H+Wx2GHf7fYXCQDs1KgwAPQgLr88Usr0\nrNFcLaHY5PRlrLaAmAeMTPnUFBQo65/Nm9/X8U8t6yexfaFu6IW2RHl6m0WibjoC\nwpHkjwM/AgMBAAECggEACK7K65ZLmvvwuODKvudhOh5dSp1c+AbRvVk+pJ9Tjx3J\nSqzpeex1wJgIdh7JW1v0Ej/HUp7KMWgLKuv4qhQAJpjEZegAjP4CoOAQOWyqwrck\nM8S3pDDQXigkDXZ4vA+HWYjgR+tn+Bz5RGSjefNu+a8MU7saqCu9CRamKtdoOXNK\n051oG4Ymp5emC7uY4/x2DcR/PjHc2dE0P4ZMl9D6kS/vTb28LNpfGmt+AzaNdxcR\nQFVB/HzPUReEY38sgM6yGzOsiVzgFN43vvbw4FfCidUqyGAw+fXL2m3r7a6OfNIW\niOLWEUjbMusf9z4+KerYST9885rMCDLGbXAXBgM/OQKBgQDlQfEe9J23BinhWdRb\nSgb52bML8vfBlLftyz3808hCAnKZ/+AxfUjBDtPGWiIzKmVzFtpxQUVTzJvLJXM4\ncnw9cgxjq6lxBdMInJgDjiVNgBPpquniqZGXenhBaLdtV+3NTBxV7usjl5l6AznB\nxP+1MSJn/50D+CRByxm4GF6jnQKBgQDgnCDfyM94b9LCkdk7EpjrESakRx3oYqcF\nAqV0WMMyq9oQ4RjLRinkMky26c4CGKFRu6vz3+Ww+AHy7aSfqwMAPjOR5lJRlZQQ\na+1dNTm/nbUGPw/Nw2i6buBchBzXA51TjIEr+CSfQWiseJW7RY3DB0ex0pyPCSQt\nlonFPy3RiwKBgEn32a0sLYq00WRlEFAX9WI9rDgpv2hU7HcrwSdGyXEKyyEG3rX4\n/zVS7F8uC6TIhAz7DaXG8nBULtv/jEplHdLRbk/mPfg6cdlwdNeI0F5N+Z7Fx0qb\nfV8LY6tu9uevnAlGCkprmLBWJG2qhsMPJZW3catuXKHAOSqFNhogusA9AoGAATBy\ncBzlFFMrP4J8LvbjPmNh2/7QZrmW/szLyXjq16rXRb2bXwApGp81jsZgI9yzhfZD\na9AkrDIz+HBPrdS++FJb/YrFps7u8MNRh2vPuXcBTV4qHEHLnSkXIQZGDNFlFNsq\nl+wBbaJwBnHBATPWE1FHjOZ7k7pNqbwhUJ0MBg8CgYBo286B3h9q7MKV+1JJ/NYP\nnw1ZGVv6ZaVAGLq7t/gU0SAbxDHOH8EnE9h4AyEuEVd54a/ZPO7nYyUT+0Kll/DW\ng/AK8PxIIQf098rIF0/YaSnpC929MPYODy7wzfnnxpe3eo8L9sEsCo3llW9vO2aD\nuERDl+5ptt+QEKwHfT6MVA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dep12-storageaccountapp@cmestas-datadep12.iam.gserviceaccount.com",
+  "client_id": "110440422643557928187",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dep12-storageaccountapp%40cmestas-datadep12.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

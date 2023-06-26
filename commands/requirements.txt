@@ -1,0 +1,15 @@
+jupyterlab
+psycopg2-binary
+pymongo
+azure-storage-blob
+sqlalchemy 
+mysqlclient
+Flask
+fastapi
+google-cloud-storage
+google-cloud-bigquery
+db-dtypes
+pandasql
+dask
+flask_cors
+flask_sqlalchemy

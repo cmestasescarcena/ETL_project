@@ -1,0 +1,11 @@
+mysql:
+    host: "192.168.3.60"
+    user: "root"
+    pass: "root"
+    port: "3310"
+
+cloud_storage:
+    path: "/user/app/ProyectoEndToEndPython/project/credenciales/cmestas-datadep12-821a37dff56f.json"
+
+mongo_db:
+    connection_string: "mongodb+srv://cmestas:dABNSEV2n0dsjE7j@datapath12-cmestas.iwmasqd.mongodb.net/?retryWrites=true&w=majority"
